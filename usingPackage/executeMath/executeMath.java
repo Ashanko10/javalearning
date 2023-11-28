@@ -7,6 +7,7 @@ public class executeMath {
     mathPackage mPackage = new mathPackage();
     System.out.println(mPackage.add(12, 12));
     System.out.println(mPackage.subtract(12, 5));
+    System.out.println(mPackage.factorial(6));
   }
   
 }
