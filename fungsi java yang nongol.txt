@@ -1,0 +1,16 @@
+for comparison string
+
+length();
+  str1.length();
+
+equals();
+  str1.equals(str2);
+
+equalsIgnoreCase()
+  str1.equalsIgnoreCase(str2);
+
+charAt();
+  str1.charAt(idx)
+
+compareTo();
+  str1.compareTo(str2);
